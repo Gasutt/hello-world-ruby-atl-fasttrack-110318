@@ -1,1 +1,1 @@
-puts Welcome to Fast Track
+puts welcome to fasttrack
