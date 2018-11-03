@@ -1,1 +1,1 @@
-puts "hello world"
+puts "Welcome to Fast Track"
